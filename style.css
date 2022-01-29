@@ -1,0 +1,21 @@
+.container {
+width: 25cm;
+height: 25cm;
+margin: auto;
+}
+
+.black {
+    display: inline-block;
+    background-color: black;
+    width: 3cm;
+    height: 3cm;
+    margin: -2px;
+}
+
+.yellow {
+    display: inline-block;
+    background-color: yellow;
+    width: 3cm;
+    height: 3cm;
+    margin: -2px;
+}
